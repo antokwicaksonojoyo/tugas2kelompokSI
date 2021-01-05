@@ -1,8 +1,6 @@
-# BiodataRoomDB
-Source Aplikasi Biodata dengan Database Room
-
-# Tutorial Build with Android Studio
-https://youtu.be/3t9kx6-iMMM
-
-# Tutorial Build with Step by Step
-https://rivaldi48.blogspot.com/2020/05/Tutorial-Membuat-Biodata-dengan-Database-Room.html
+- Tugas 2 kelompok A41N membuat aplikasi andorid dengan room persistence
+17510024 - NOVA SIREGAR
+19510012 - ANGGI MAULIDITA KHUSNURIDA
+19510014 - ANDI SURYA PERMANA
+19510022M -  MUHAMMAD ADIB LUTFI
+20510014 - ANTOK NURWICAKSONO
