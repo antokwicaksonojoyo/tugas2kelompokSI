@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.massivedisaster.widget:arctoolbarview:0.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/83859c1de8f11479c4ac7f19b81f0f29/jetified-arctoolbarview-0.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/83859c1de8f11479c4ac7f19b81f0f29/jetified-arctoolbarview-0.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c793d05f63434bdde04363c0936a6281/jetified-arctoolbarview-0.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c793d05f63434bdde04363c0936a6281/jetified-arctoolbarview-0.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c793d05f63434bdde04363c0936a6281/jetified-arctoolbarview-0.0.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c83227690a8fdbcdddbca062fa281185/jetified-arctoolbarview-0.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c83227690a8fdbcdddbca062fa281185/jetified-arctoolbarview-0.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c83227690a8fdbcdddbca062fa281185/jetified-arctoolbarview-0.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.massivedisaster.widget/arctoolbarview/0.0.1/103273c6bc9555601c36f85d7e9ac8e02ed3284c/arctoolbarview-0.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.massivedisaster.widget/arctoolbarview/0.0.1/fe1b1ada5e803e5832dc48aa87909e728ff4b6a6/arctoolbarview-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,7 @@
+#Tue Jan 05 10:01:15 ICT 2021
+base.0=E\:\\DATA UNIVERSAL\\2020_Kuliah\\Prak PPB 1\\tugas2kelompokSI\\BiodataSiswa\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\DATA UNIVERSAL\\2020_Kuliah\\Prak PPB 1\\tugas2kelompokSI\\BiodataSiswa\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
